@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Pos from "./Components/pos";
 import About from "./Components/About";
 
@@ -9,14 +9,14 @@ import HomePage from "./Components/HomePage.js";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter  basename={process.env.PUBLIC_URL}>
+      <Router>
       <Routes>
         <Route path="/" element={<HomePage />}/>
         <Route path="pos" element={<Pos/>} />
         <Route path="About" element={<About/>} />
 
         </Routes>
-    </BrowserRouter>
+        </Router>
 
       
     </div>
