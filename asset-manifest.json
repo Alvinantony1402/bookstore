@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bookstore/static/css/main.fd60fd94.css",
-    "main.js": "/bookstore/static/js/main.249b0b29.js",
+    "main.js": "/bookstore/static/js/main.1cf87ba9.js",
     "static/media/cover.jpg": "/bookstore/static/media/cover.a622356b88978cf3d6cd.jpg",
     "static/media/Cover_page.jpg": "/bookstore/static/media/Cover_page.84a0935143fcb648c372.jpg",
     "index.html": "/bookstore/index.html",
     "main.fd60fd94.css.map": "/bookstore/static/css/main.fd60fd94.css.map",
-    "main.249b0b29.js.map": "/bookstore/static/js/main.249b0b29.js.map"
+    "main.1cf87ba9.js.map": "/bookstore/static/js/main.1cf87ba9.js.map"
   },
   "entrypoints": [
     "static/css/main.fd60fd94.css",
-    "static/js/main.249b0b29.js"
+    "static/js/main.1cf87ba9.js"
   ]
 }
